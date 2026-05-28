@@ -4,7 +4,7 @@ import json
 import os
 from dotenv import load_dotenv
 from datetime import date
-from pprint import pprint
+#from pprint import pprint
 
 # Load environment variables from .env file
 load_dotenv(".env")
